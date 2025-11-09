@@ -1,8 +1,0 @@
-name = "my-astro-project"
-type = "javascript"
-account_id = ""
-main = "dist/server/entry.mjs"
-compatibility_date = "2024-01-15"
-
-[env.production]
-name = "my-astro-project-prod"
